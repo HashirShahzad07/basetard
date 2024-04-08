@@ -56,6 +56,25 @@
 .elementor-element.elementor-element-de2ba00.e-flex.e-con-boxed.e-con.e-child {
     background: transparent;
 }
+body.home.page-template.page-template-elementor_header_footer.page.page-id-242.ehf-header.ehf-footer.ehf-template-hello-elementor.ehf-stylesheet-hello-elementor.elementor-default.elementor-template-full-width.elementor-kit-5.elementor-page.elementor-page-242.e--ua-isTouchDevice.e--ua-blink.e--ua-chrome.e--ua-webkit {
+    background: linear-gradient(147deg, rgba(28,154,243,1) 0%, rgba(28,154,243,1) 43%, rgba(249,249,249,1) 100%);
+}
+
+.elementor-element.elementor-element-64f2835.e-flex.e-con-boxed.e-con.e-parent {
+ background: linear-gradient(0deg, rgba(28,154,243,1) 0%, rgba(28,154,243,1) 43%, rgba(249,249,249,1) 100%);
+}
+.elementor-element.elementor-element-ef19fb5.e-flex.e-con-boxed.e-con.e-parent {
+    background: linear-gradient(0deg, rgba(28,154,243,1) 0%, rgba(28,154,243,1) 43%, rgba(249,249,249,1) 100%);
+}
+
+.elementor-element.elementor-element-a5711b1.elementor-hidden-mobile.e-flex.e-con-boxed.e-con.e-parent {
+    background: linear-gradient(0deg, rgba(28,154,243,1) 0%, rgba(28,154,243,1) 43%, rgba(249,249,249,1) 100%);
+}
+
+.elementor-element.elementor-element-f5ad9a2.e-flex.e-con-boxed.e-con.e-parent {
+    background: linear-gradient(0deg, rgba(28,154,243,1) 0%, rgba(28,154,243,1) 43%, rgba(249,249,249,1) 100%);
+}
+
 @media (max-width: 480px) {
 
     .elementor-242 .elementor-element.elementor-element-fe1c025 .elementor-heading-title {
